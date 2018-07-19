@@ -1,11 +1,11 @@
 Properties
 
-bin
-obj
+bin  
+obj  
 packages
 
 .vs
 
-*.csproj
-*.sln
-*.config
+*.csproj  
+*.sln  
+*.config  
