@@ -4,9 +4,11 @@ bin
 obj  
 packages
 
-.vs # For Visual Studio.
+\# For Visual Studio.  
+.vs 
 
-.idea # For JetBrais ReSharper.
+\# For JetBrais Rider.  
+.idea 
 
 *.csproj  
 *.sln  
