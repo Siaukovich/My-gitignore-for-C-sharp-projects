@@ -4,7 +4,9 @@ bin
 obj  
 packages
 
-.vs
+.vs # For Visual Studio.
+
+.idea # For JetBrais ReSharper.
 
 *.csproj  
 *.sln  
